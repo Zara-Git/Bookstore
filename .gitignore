@@ -1,0 +1,13 @@
+﻿# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build folders
+bin/
+obj/
+
+# Ignore other common files
+*.exe
+*.dll
+*.pdb
